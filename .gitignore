@@ -1,0 +1,11 @@
+# Node Modules
+node_modules
+
+# Production
+build
+
+# NPM Debug File
+npm-debug.log
+
+# .vscode
+.vscode
